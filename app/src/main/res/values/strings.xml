@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMDUMB</string>
+
+    <string name="categories_title">Categorías</string>
+    <string name="movies_title">Películas</string>
+    <string name="detail_title">Detalle</string>
+    <string name="rating_label">Calificación:</string>
+    <string name="actors_label">Actores:</string>
+    <string name="recommend_button">Recomendar</string>
+    <string name="send_button">Enviar</string>
+    <string name="comment_hint">Escribe tu comentario...</string>
+    <string name="recommendation_success">¡Recomendación enviada!</string>
+    <string name="error_message">Error al cargar datos</string>
+    <string name="loading">Cargando...</string>
+
+    <string name="error_network">Error de conexión</string>
+    <string name="error_timeout">Tiempo de espera agotado</string>
+    <string name="error_unknown">Error desconocido</string>
+
+    <string name="rating_format">%.1f / 10</string>
+    <string name="date_format">dd/MM/yyyy</string>
+</resources>

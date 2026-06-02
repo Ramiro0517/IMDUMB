@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMDUMB</string>
+    <string name="environment">⭐ Modo Producción</string>
+    <string name="base_url_prod">https://api.themoviedb.org/3/</string>
+    <string name="enable_debug_menu">false</string>
+    <string name="splash_subtitle">Versión Oficial</string>
+    <color name="flavor_color">#4CAF50</color>
+</resources>

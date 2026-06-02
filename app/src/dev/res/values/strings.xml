@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMDUMB Dev</string>
+    <string name="environment">🔧 Modo Desarrollo</string>
+    <string name="base_url_dev">https://api-dev.themoviedb.org/3/</string>
+    <string name="enable_debug_menu">true</string>
+    <string name="splash_subtitle">Versión Desarrollo</string>
+    <color name="flavor_color">#FF5722</color>
+</resources>

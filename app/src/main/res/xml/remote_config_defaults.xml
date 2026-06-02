@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>api_timeout</key>
+        <value>30000</value>
+    </entry>
+    <entry>
+        <key>enable_recommendations</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>splash_duration</key>
+        <value>2000</value>
+    </entry>
+    <entry>
+        <key>min_app_version</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>maintenance_mode</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>
