@@ -10,9 +10,8 @@ App Android que muestra categorías y detalles de películas usando API de TMDb.
 
 ## API Key
 
-Obtener key gratis en https://www.themoviedb.org/signup
-Luego agregar en app/build.gradle:
-`buildConfigField("String", "API_KEY", "\"tu_key_aqui\"")`
+El proyecto **ya incluye** una API key de TMDb válida para evaluación inmediata.
+No es necesario obtener una nueva.
 
 ## Tecnologías
 
@@ -24,4 +23,4 @@ Luego agregar en app/build.gradle:
 
 ## Autor
 
-<Ramiro choque>
+Ramiro Choque
