@@ -1,0 +1,27 @@
+# IMDUMB - App de Películas
+
+App Android que muestra categorías y detalles de películas usando API de TMDb.
+
+## Cómo ejecutar
+
+1. Abrir en Android Studio
+2. Sincronizar Gradle
+3. Ejecutar en dispositivo o emulador
+
+## API Key
+
+Obtener key gratis en https://www.themoviedb.org/signup
+Luego agregar en app/build.gradle:
+`buildConfigField("String", "API_KEY", "\"tu_key_aqui\"")`
+
+## Tecnologías
+
+- Kotlin
+- Retrofit + RxJava
+- Firebase (Remote Config)
+- Hilt
+- Glide
+
+## Autor
+
+<Ramiro choque>
